@@ -1,0 +1,9 @@
+.vscode/
+Core/Employee.API/bin/
+Core/Employee.API/obj/
+Infrastructure/Employee.Infrastructure/bin/
+Infrastructure/Employee.Infrastructure/obj/
+Presentation/Employee/bin/
+Presentation/Employee/obj/
+Test/Employee.Test/bin/
+Test/Employee.Test/obj/
